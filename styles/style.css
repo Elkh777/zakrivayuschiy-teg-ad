@@ -156,7 +156,9 @@
   filter: blur(14px);
 }
 
-.mult { filter: hue-rotate(100deg) contrast(0.5) brightness(0.9) blur(2px); }
+.mult {
+  filter: hue-rotate(100deg) contrast(0.5) brightness(0.9) blur(2px);
+ }
 
 .watermark {
   position: absolute;
