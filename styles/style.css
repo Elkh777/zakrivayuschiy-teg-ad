@@ -140,8 +140,8 @@
   filter: saturate(5);
 }
 
-.hue { 
-  filter: hue-rotate(26deg); 
+.hue {
+  filter: hue-rotate(26deg);
 }
 
 .invert {
