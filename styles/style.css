@@ -37,6 +37,7 @@
   background-color: var(--color-bg, #fff);
   border: 2px solid var(--color-main, #000);
   margin-block-end: 100px;
+  height: 364px;
 }
 
 .header__logo {
